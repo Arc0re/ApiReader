@@ -1,0 +1,6 @@
+{
+    "require":
+    {
+        "fguillot/picofeed": "0.1.19"
+    }
+}
